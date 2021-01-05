@@ -1,0 +1,7 @@
+C:\Users\אביב\source\repos\SortedAndMerged\SortedAndMerged\bin\Debug\SortedAndMerged.exe.config
+C:\Users\אביב\source\repos\SortedAndMerged\SortedAndMerged\bin\Debug\SortedAndMerged.exe
+C:\Users\אביב\source\repos\SortedAndMerged\SortedAndMerged\bin\Debug\SortedAndMerged.pdb
+C:\Users\אביב\source\repos\SortedAndMerged\SortedAndMerged\obj\Debug\SortedAndMerged.csprojAssemblyReference.cache
+C:\Users\אביב\source\repos\SortedAndMerged\SortedAndMerged\obj\Debug\SortedAndMerged.csproj.CoreCompileInputs.cache
+C:\Users\אביב\source\repos\SortedAndMerged\SortedAndMerged\obj\Debug\SortedAndMerged.exe
+C:\Users\אביב\source\repos\SortedAndMerged\SortedAndMerged\obj\Debug\SortedAndMerged.pdb
